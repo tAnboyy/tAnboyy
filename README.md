@@ -19,7 +19,7 @@
 
 I build software around questions I keep coming back to: **Can an AI tutor remember where a student struggled? Can a workout adapt when the next machine is taken? Can a complex document become an answer someone can actually use?**
 
-Those questions have taken me from **enterprise backend engineering at ACI Worldwide**, to **agentic learning research at UNC Charlotte**, to **RAG development at Arch MI**. Along the way, I've built campus-navigation tools, mobile apps, and systems for learning and fitness.
+Those questions have taken me from **payment-service backend development at CloudSphere IT Labs** and **enterprise backend engineering at ACI Worldwide**, to **agentic learning research at UNC Charlotte**, to **RAG development at Arch MI**. Along the way, I've built campus-navigation tools, mobile apps, and systems for learning and fitness.
 
 I enjoy connecting the whole system: the interface someone touches, the API behind it, the data it depends on, and the AI workflow that helps them take the next step.
 
@@ -83,7 +83,7 @@ Reflections uses guided AI conversations to support academic reflection. Profess
 ### Arch Mortgage Insurance Company · Software Engineer Intern
 **Jun – Aug 2026 · Greensboro, NC**
 
-Worked on a RAG application for mortgage-insurance underwriters, turning document-heavy information retrieval into a conversational workflow. Explored chunking, hybrid vector-graph search, reranking, and prompt engineering, and created ground-truth datasets and automated Azure AI evaluations to support iteration.
+Built an enterprise RAG backend for mortgage-insurance underwriters using FastAPI, LangChain, and MongoDB vector stores, reducing document-query turnaround from more than two days to under 800 ms. Integrated ground-truth datasets and automated Azure AI evaluations into Azure DevOps CI/CD to measure context precision and recall. Added conversational memory with Chainlit and optimized vector embeddings to reduce redundant database calls across sustained query sessions.
 
 **What I took from it:** retrieval quality and answer quality need to be measured separately; useful AI systems need evidence and evaluation throughout development.
 
@@ -94,12 +94,19 @@ Built stateful agentic tutoring workflows with planner, tutor, and evaluator rol
 
 **What I took from it:** a learning conversation becomes more interesting when the system remembers what happened and uses that context to choose what comes next.
 
-### ACI Worldwide · Associate Software Engineer
+### ACI Worldwide · Software Engineer
 **Sep 2023 – Jun 2025 · Bengaluru, India**
 
-Contributed to the migration of a Spring MVC monolith into Spring Boot microservices, developed and tested REST APIs, and maintained production services through fixes, upgrades, and SQL scripts. Also worked on Angular interfaces, Postman regression testing, CI/CD on VMware Tanzu and Red Hat OpenShift, and application-security remediation.
+Migrated a Spring MVC monolith into three Spring Boot REST microservices across Azure regions, reducing deployment downtime by 40% through blue-green deployments. Built asynchronous Kafka and RabbitMQ messaging pipelines on Red Hat OpenShift, and optimized PostgreSQL queries and composite indexes to cut p95 query latency by 25% and resolve more than 20 production bottlenecks. As a Security Satellite Engineer, remediated more than 100 critical Checkmarx and Black Duck vulnerabilities to support PCI DSS compliance.
 
 **What I took from it:** backend engineering includes everything around the endpoint—testing, deployment, debugging, and keeping existing systems working as they change.
+
+### CloudSphere IT Labs · Associate Software Engineer
+**Jul 2022 – Aug 2023 · Bengaluru, India**
+
+Built Java and Spring Boot REST APIs for checkout services, using Redis caching to reduce p99 endpoint latency by 120 ms during peak transaction volumes. Developed Spring Batch ingestion jobs to process and validate more than 50,000 merchant ledger records daily in Oracle DB. Secured downstream microservices with OAuth 2.0, scoped JWTs, and role-based access control, and standardized ELK Stack monitoring to reduce mean time to resolution for critical payment failures by 35%.
+
+**What I took from it:** reliable payment services depend on careful data processing, explicit access controls, and visibility into how the system behaves in production.
 
 ## The rest of the workbench
 
@@ -155,10 +162,12 @@ Collaborated in a six-person team on an event platform using React, Node.js, Fir
 | **Languages** | Python · Java · TypeScript · JavaScript · SQL · Kotlin |
 | **AI & retrieval** | LangGraph · LangChain · Sentence Transformers · OpenAI API · pgvector · Hybrid Search · Reranking · MCP |
 | **AI evaluation** | LangSmith · RAGAS · DeepEval · Azure AI Evals |
-| **Backend & APIs** | FastAPI · Spring Boot · Node.js · REST · WebSockets |
+| **Backend & APIs** | FastAPI · Spring Boot · Spring Batch · Node.js · REST · WebSockets |
 | **Web & mobile** | React · React Native · Expo · Angular · Redux Toolkit · SwiftUI prototyping |
-| **Data & storage** | PostgreSQL · SQLite · Firebase / Firestore · Supabase |
-| **Delivery & testing** | Docker · Git · CI/CD · Postman · Linux · VMware Tanzu · Red Hat OpenShift |
+| **Data & storage** | PostgreSQL · Oracle DB · MongoDB · Redis · SQLite · Firebase / Firestore · Supabase |
+| **Messaging** | Apache Kafka · RabbitMQ |
+| **Delivery & testing** | Azure · Azure DevOps · Docker · Git · CI/CD · Postman · Linux · VMware Tanzu · Red Hat OpenShift |
+| **Security & observability** | OAuth 2.0 · JWT · RBAC · Checkmarx · Black Duck · ELK Stack · PCI DSS |
 
 ## Education
 
