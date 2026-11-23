@@ -103,8 +103,8 @@ Connected-fitness apps and scheduling experiments exploring equipment availabili
 
 <p align="center">
   <b>Building around learning, movement, and everyday decisions.</b><br /><br />
-  Interested in AI engineering, backend systems, or a thoughtful product idea?<br />
-  <a href="https://tanboyy.github.io/"><img src="https://img.shields.io/badge/See_my_portfolio-C7F36B?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=0D1117" alt="See my portfolio" /></a>
-  <a href="https://www.linkedin.com/in/thanmay-m-das-676240193/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-80D6FF?style=for-the-badge&amp;logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iIzBEMTExNyIgZD0iTTYgOGgtNHYxNGg0ek00IDJhMiAyIDAgMSAwIDAgNCAyIDIgMCAwIDAgMC00ek04IDhoNHYyaC4xYzEtMiAzLTIgNC0yIDQgMCA0IDMgNCA3djdoLTR2LTdjMC0yIDAtNC0yLTQtMiAwLTIgMi0yIDR2N0g4eiIvPjwvc3ZnPg==" alt="Connect on LinkedIn" /></a>
+  Interested in AI engineering, backend systems, or a thoughtful product idea?<br /><br />
+  <a href="https://tanboyy.github.io/"><img src="https://img.shields.io/badge/PORTFOLIO-C7F36B?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=0D1117" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/thanmay-m-das-676240193/"><img src="https://img.shields.io/badge/LINKEDIN-80D6FF?style=for-the-badge&amp;logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iIzBEMTExNyIgZD0iTTYgOGgtNHYxNGg0ek00IDJhMiAyIDAgMSAwIDAgNCAyIDIgMCAwIDAgMC00ek04IDhoNHYyaC4xYzEtMiAzLTIgNC0yIDQgMCA0IDMgNCA3djdoLTR2LTdjMC0yIDAtNC0yLTQtMiAwLTIgMi0yIDR2N0g4eiIvPjwvc3ZnPg==" alt="LinkedIn" /></a>
   <a href="mailto:mdasthanmay@gmail.com"><img src="https://img.shields.io/badge/Let's_talk-F0B88A?style=for-the-badge&amp;logo=gmail&amp;logoColor=0D1117" alt="Let's talk" /></a>
 </p>
