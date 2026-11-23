@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://tanboyy.github.io"><img src="https://img.shields.io/badge/PORTFOLIO-C7F36B?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=0D1117" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/thanmay-m-das-676240193/"><img src="https://img.shields.io/badge/LINKEDIN-80D6FF?style=for-the-badge&amp;logoColor=0D1117" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/thanmay-m-das-676240193/"><img src="https://img.shields.io/badge/LINKEDIN-80D6FF?style=for-the-badge&amp;logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iIzBEMTExNyIgZD0iTTYgOGgtNHYxNGg0ek00IDJhMiAyIDAgMSAwIDAgNCAyIDIgMCAwIDAgMC00ek04IDhoNHYyaC4xYzEtMiAzLTIgNC0yIDQgMCA0IDMgNCA3djdoLTR2LTdjMC0yIDAtNC0yLTQtMiAwLTIgMi0yIDR2N0g4eiIvPjwvc3ZnPg==" alt="LinkedIn" /></a>
   <a href="mailto:mdasthanmay@gmail.com"><img src="https://img.shields.io/badge/LET'S_TALK-F0B88A?style=for-the-badge&amp;logo=gmail&amp;logoColor=0D1117" alt="Email Thanmay" /></a>
 </p>
 
@@ -14,6 +14,10 @@
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tAnboyy&amp;label=Profile+views&amp;color=80d6ff&amp;style=flat" alt="Profile views" />
+</p>
 
 ## Hey, I'm Thanmay.
 
@@ -27,7 +31,6 @@ I enjoy connecting the whole system: the interface someone touches, the API behi
 
 <p align="center">
   <a href="#selected-builds">Selected builds</a> &nbsp; / &nbsp;
-  <a href="#experience">Experience</a> &nbsp; / &nbsp;
   <a href="#the-rest-of-the-workbench">More projects</a> &nbsp; / &nbsp;
   <a href="#tools-i-reach-for">Tech stack</a>
 </p>
@@ -78,36 +81,6 @@ Reflections uses guided AI conversations to support academic reflection. Profess
 
 **[Explore Reflections →](https://github.com/tAnboyy/reflections-app)**
 
-## Experience
-
-### Arch Mortgage Insurance Company · Software Engineer Intern
-**Jun – Aug 2026 · Greensboro, NC**
-
-Built an enterprise RAG backend for mortgage-insurance underwriters using FastAPI, LangChain, and MongoDB vector stores, reducing document-query turnaround from more than two days to under 800 ms. Integrated ground-truth datasets and automated Azure AI evaluations into Azure DevOps CI/CD to measure context precision and recall. Added conversational memory with Chainlit and optimized vector embeddings to reduce redundant database calls across sustained query sessions.
-
-**What I took from it:** retrieval quality and answer quality need to be measured separately; useful AI systems need evidence and evaluation throughout development.
-
-### UNC Charlotte · Research Assistant
-**Jan – May 2026 · Charlotte, NC**
-
-Built stateful agentic tutoring workflows with planner, tutor, and evaluator roles using LangGraph. Worked with PostgreSQL checkpoints, conditional routing, prior-session learning context, and RAG-based recommendations using Sentence Transformers and pgvector. Evaluation work included LangSmith, RAGAS, DeepEval, and LLM-as-a-judge workflows, with FastAPI and a Dockerized React application connecting the pieces.
-
-**What I took from it:** a learning conversation becomes more interesting when the system remembers what happened and uses that context to choose what comes next.
-
-### ACI Worldwide · Software Engineer
-**Sep 2023 – Jun 2025 · Bengaluru, India**
-
-Migrated a Spring MVC monolith into three Spring Boot REST microservices across Azure regions, reducing deployment downtime by 40% through blue-green deployments. Built asynchronous Kafka and RabbitMQ messaging pipelines on Red Hat OpenShift, and optimized PostgreSQL queries and composite indexes to cut p95 query latency by 25% and resolve more than 20 production bottlenecks. As a Security Satellite Engineer, remediated more than 100 critical Checkmarx and Black Duck vulnerabilities to support PCI DSS compliance.
-
-**What I took from it:** backend engineering includes everything around the endpoint—testing, deployment, debugging, and keeping existing systems working as they change.
-
-### CloudSphere IT Labs · Associate Software Engineer
-**Jul 2022 – Aug 2023 · Bengaluru, India**
-
-Built Java and Spring Boot REST APIs for checkout services, using Redis caching to reduce p99 endpoint latency by 120 ms during peak transaction volumes. Developed Spring Batch ingestion jobs to process and validate more than 50,000 merchant ledger records daily in Oracle DB. Secured downstream microservices with OAuth 2.0, scoped JWTs, and role-based access control, and standardized ELK Stack monitoring to reduce mean time to resolution for critical payment failures by 35%.
-
-**What I took from it:** reliable payment services depend on careful data processing, explicit access controls, and visibility into how the system behaves in production.
-
 ## The rest of the workbench
 
 <details>
@@ -145,44 +118,45 @@ Collaborated in a six-person team on an event platform using React, Node.js, Fir
 
 </details>
 
-## The engineering questions I care about
-
-| Question | Where it shows up in my work |
-| :--- | :--- |
-| **What evidence supports this answer?** | RAG, hybrid retrieval, reranking, and evaluation datasets. |
-| **What should the system remember?** | LangGraph workflows, PostgreSQL checkpoints, and prior-session context. |
-| **Can an AI action safely change application state?** | Structured tools, validated workout actions, and synchronized sessions. |
-| **What happens when conditions change?** | Busy equipment, interrupted conversations, offline access, and evolving course materials. |
-| **How do we know it works?** | API regression tests, LLM evaluation, reproducible simulations, and explicit validation notes. |
-
 ## Tools I reach for
 
-| Area | Technologies |
-| :--- | :--- |
-| **Languages** | Python · Java · TypeScript · JavaScript · SQL · Kotlin |
-| **AI & retrieval** | LangGraph · LangChain · Sentence Transformers · OpenAI API · pgvector · Hybrid Search · Reranking · MCP |
-| **AI evaluation** | LangSmith · RAGAS · DeepEval · Azure AI Evals |
-| **Backend & APIs** | FastAPI · Spring Boot · Spring Batch · Node.js · REST · WebSockets |
-| **Web & mobile** | React · React Native · Expo · Angular · Redux Toolkit · SwiftUI prototyping |
-| **Data & storage** | PostgreSQL · Oracle DB · MongoDB · Redis · SQLite · Firebase / Firestore · Supabase |
-| **Messaging** | Apache Kafka · RabbitMQ |
-| **Delivery & testing** | Azure · Azure DevOps · Docker · Git · CI/CD · Postman · Linux · VMware Tanzu · Red Hat OpenShift |
-| **Security & observability** | OAuth 2.0 · JWT · RBAC · Checkmarx · Black Duck · ELK Stack · PCI DSS |
+**Languages**
 
-## Education
+![Python](https://img.shields.io/badge/Python-161B22?style=for-the-badge&logo=python&logoColor=80D6FF) ![Java](https://img.shields.io/badge/Java-161B22?style=for-the-badge&logoColor=80D6FF) ![TypeScript](https://img.shields.io/badge/TypeScript-161B22?style=for-the-badge&logo=typescript&logoColor=80D6FF) ![JavaScript](https://img.shields.io/badge/JavaScript-161B22?style=for-the-badge&logo=javascript&logoColor=80D6FF) ![SQL](https://img.shields.io/badge/SQL-161B22?style=for-the-badge&logoColor=80D6FF) ![Kotlin](https://img.shields.io/badge/Kotlin-161B22?style=for-the-badge&logo=kotlin&logoColor=80D6FF)
 
-**University of North Carolina at Charlotte**  
-M.S. in Computer Science · Aug 2025 – Dec 2026 (expected)
+**AI & retrieval**
 
-**NMAM Institute of Technology**  
-B.E. in Information Science · 2019 – 2023
+![LangGraph](https://img.shields.io/badge/LangGraph-161B22?style=for-the-badge&logo=langgraph&logoColor=80D6FF) ![LangChain](https://img.shields.io/badge/LangChain-161B22?style=for-the-badge&logo=langchain&logoColor=80D6FF) ![OpenAI API](https://img.shields.io/badge/OpenAI%20API-161B22?style=for-the-badge&logoColor=80D6FF) ![pgvector](https://img.shields.io/badge/pgvector-161B22?style=for-the-badge&logo=postgresql&logoColor=80D6FF)
+
+**Backend & APIs**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-161B22?style=for-the-badge&logo=fastapi&logoColor=80D6FF) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-161B22?style=for-the-badge&logo=springboot&logoColor=80D6FF) ![Node.js](https://img.shields.io/badge/Node.js-161B22?style=for-the-badge&logo=nodedotjs&logoColor=80D6FF) ![WebSockets](https://img.shields.io/badge/WebSockets-161B22?style=for-the-badge&logoColor=80D6FF)
+
+**Web & mobile**
+
+![React](https://img.shields.io/badge/React-161B22?style=for-the-badge&logo=react&logoColor=80D6FF) ![React Native](https://img.shields.io/badge/React%20Native-161B22?style=for-the-badge&logo=react&logoColor=80D6FF) ![Expo](https://img.shields.io/badge/Expo-161B22?style=for-the-badge&logo=expo&logoColor=80D6FF) ![Angular](https://img.shields.io/badge/Angular-161B22?style=for-the-badge&logo=angular&logoColor=80D6FF) ![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-161B22?style=for-the-badge&logo=redux&logoColor=80D6FF) ![SwiftUI](https://img.shields.io/badge/SwiftUI-161B22?style=for-the-badge&logo=swift&logoColor=80D6FF)
+
+**Data & messaging**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-161B22?style=for-the-badge&logo=postgresql&logoColor=80D6FF) ![MongoDB](https://img.shields.io/badge/MongoDB-161B22?style=for-the-badge&logo=mongodb&logoColor=80D6FF) ![Redis](https://img.shields.io/badge/Redis-161B22?style=for-the-badge&logo=redis&logoColor=80D6FF) ![SQLite](https://img.shields.io/badge/SQLite-161B22?style=for-the-badge&logo=sqlite&logoColor=80D6FF) ![Firebase](https://img.shields.io/badge/Firebase-161B22?style=for-the-badge&logo=firebase&logoColor=80D6FF) ![Supabase](https://img.shields.io/badge/Supabase-161B22?style=for-the-badge&logo=supabase&logoColor=80D6FF) ![Kafka](https://img.shields.io/badge/Kafka-161B22?style=for-the-badge&logo=apachekafka&logoColor=80D6FF) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-161B22?style=for-the-badge&logo=rabbitmq&logoColor=80D6FF)
+
+**Delivery & testing**
+
+![Azure](https://img.shields.io/badge/Azure-161B22?style=for-the-badge&logoColor=80D6FF) ![Docker](https://img.shields.io/badge/Docker-161B22?style=for-the-badge&logo=docker&logoColor=80D6FF) ![Git](https://img.shields.io/badge/Git-161B22?style=for-the-badge&logo=git&logoColor=80D6FF) ![Postman](https://img.shields.io/badge/Postman-161B22?style=for-the-badge&logo=postman&logoColor=80D6FF) ![Linux](https://img.shields.io/badge/Linux-161B22?style=for-the-badge&logo=linux&logoColor=80D6FF) ![OpenShift](https://img.shields.io/badge/OpenShift-161B22?style=for-the-badge&logo=redhatopenshift&logoColor=80D6FF)
+
+<details>
+<summary>More tools & practices</summary>
+
+Sentence Transformers · Hybrid Search · Reranking · MCP · LangSmith · RAGAS · DeepEval · Azure AI Evals · Spring Batch · REST · Oracle DB · Azure DevOps · CI/CD · VMware Tanzu · OAuth 2.0 · JWT · RBAC · Checkmarx · Black Duck · ELK Stack · PCI DSS
+
+</details>
 
 ---
 
 <p align="center">
   <b>Building around learning, movement, and everyday decisions.</b><br /><br />
   Interested in AI engineering, backend systems, or a thoughtful product idea?<br />
-  <a href="mailto:mdasthanmay@gmail.com">Let's talk</a> ·
-  <a href="https://tanboyy.github.io">See my portfolio</a> ·
-  <a href="https://www.linkedin.com/in/thanmay-m-das-676240193/">Connect on LinkedIn</a>
+  <a href="mailto:mdasthanmay@gmail.com"><img src="https://img.shields.io/badge/Let's_talk-F0B88A?style=for-the-badge&amp;logo=gmail&amp;logoColor=0D1117" alt="Let's talk" /></a>
+  <a href="https://tanboyy.github.io/"><img src="https://img.shields.io/badge/See_my_portfolio-C7F36B?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=0D1117" alt="See my portfolio" /></a>
+  <a href="https://www.linkedin.com/in/thanmay-m-das-676240193/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-80D6FF?style=for-the-badge&amp;logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iIzBEMTExNyIgZD0iTTYgOGgtNHYxNGg0ek00IDJhMiAyIDAgMSAwIDAgNCAyIDIgMCAwIDAgMC00ek04IDhoNHYyaC4xYzEtMiAzLTIgNC0yIDQgMCA0IDMgNCA3djdoLTR2LTdjMC0yIDAtNC0yLTQtMiAwLTIgMi0yIDR2N0g4eiIvPjwvc3ZnPg==" alt="Connect on LinkedIn" /></a>
 </p>
