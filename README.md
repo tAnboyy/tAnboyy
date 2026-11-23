@@ -81,12 +81,7 @@ An Android-first app for hourly activity logs, next-hour goals, and productivity
 ### UREC Live & gym scheduling research
 Connected-fitness apps and scheduling experiments exploring equipment availability and workout flow.
 
-[App repository →](https://github.com/tAnboyy/urec-live-app)
-
-### Incridea
-An event platform with authentication and payments, built with a six-person team.
-
-*Public repository link unavailable.*
+[Repository →](https://github.com/tAnboyy/urec-live-app)
 
 </details>
 
