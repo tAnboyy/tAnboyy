@@ -35,7 +35,7 @@ I build **AI-powered applications, dependable backends, and thoughtful interface
 AI-supported learning in one place: Socratic conversations, reflections, and adaptive tutoring connected through a shared course workflow.
 
 <p align="center">
-  <a href="https://github.com/tAnboyy/CourseLab"><img src="https://img.shields.io/badge/Explore_CourseLab-B8BEC6?style=for-the-badge&amp;logo=github&amp;logoColor=0D1117" alt="Explore CourseLab" /></a>
+  <a href="https://github.com/tAnboyy/CourseLab"><img src="https://img.shields.io/badge/Explore_CourseLab-FFFFFF?style=for-the-badge&amp;logo=github&amp;logoColor=0D1117" alt="Explore CourseLab" /></a>
 </p>
 
 ---
@@ -44,7 +44,7 @@ AI-supported learning in one place: Socratic conversations, reflections, and ada
 An equipment-aware workout companion with session tracking and conversational coaching that helps adapt a workout when a machine is taken. Built with a teammate.
 
 <p align="center">
-  <a href="https://github.com/tAnboyy/spotter"><img src="https://img.shields.io/badge/Explore_Spotter-B8BEC6?style=for-the-badge&amp;logo=github&amp;logoColor=0D1117" alt="Explore Spotter" /></a>
+  <a href="https://github.com/tAnboyy/spotter"><img src="https://img.shields.io/badge/Explore_Spotter-FFFFFF?style=for-the-badge&amp;logo=github&amp;logoColor=0D1117" alt="Explore Spotter" /></a>
 </p>
 
 ---
@@ -53,7 +53,7 @@ An equipment-aware workout companion with session tracking and conversational co
 Guided AI conversations that help students reflect on how they learn, with persistent context and instructor-configured topics.
 
 <p align="center">
-  <a href="https://github.com/tAnboyy/reflections-app"><img src="https://img.shields.io/badge/Explore_Reflections-B8BEC6?style=for-the-badge&amp;logo=github&amp;logoColor=0D1117" alt="Explore Reflections" /></a>
+  <a href="https://github.com/tAnboyy/reflections-app"><img src="https://img.shields.io/badge/Explore_Reflections-FFFFFF?style=for-the-badge&amp;logo=github&amp;logoColor=0D1117" alt="Explore Reflections" /></a>
 </p>
 
 ---
@@ -64,34 +64,29 @@ Guided AI conversations that help students reflect on how they learn, with persi
 <summary><b>Open the project shelf — navigation, commerce, productivity, and gym research</b></summary>
 
 ### CampusNav / NMAMIT Map
+Campus navigation with searchable places, a teacher directory, and offline fallbacks.
 
-My campus-navigation work began with an Android app built with Java, Kotlin, Google Maps, and Firebase. The broader CampusNav work explores searchable places, a teacher directory, offline fallbacks, university-specific configuration, and a Spring Boot backend with a React administration interface.
-
-**Focus:** making unfamiliar campuses easier to navigate, with useful information available even when connectivity is unreliable.
-
-[Original NMAMIT Guide repository →](https://github.com/tAnboyy/NMAMIT-Guide)
+[Repository →](https://github.com/tAnboyy/NMAMIT-Guide)
 
 ### Cinnamon
+A food-ordering app with menu browsing, weekly meal plans, shared carts, and checkout.
 
-A food-ordering project spanning a React Native customer app, Spring Boot API, restaurant administration, and a marketing site. The customer journey includes menu browsing, weekly meal plans, a shared cart, order history, and platform-specific checkout, with Redux Toolkit, Firebase / Firestore, and Stripe integration.
-
-[Customer app →](https://github.com/tAnboyy/cinnamon_customer-app)
+[Repository →](https://github.com/tAnboyy/cinnamon_customer-app)
 
 ### Hour Tracker
-
-An Android-first productivity app pairing hourly activity logs with a goal for the next hour. Local SQLite storage, notification actions, missed-hour backfilling, dashboard summaries, and CSV export keep the core workflow practical; optional Supabase synchronization connects it to a cloud account.
+An Android-first app for hourly activity logs, next-hour goals, and productivity summaries.
 
 [Repository →](https://github.com/tAnboyy/hour-tracker-app)
 
 ### UREC Live & gym scheduling research
+Connected-fitness apps and scheduling experiments exploring equipment availability and workout flow.
 
-Connected-fitness work across a member app, Spring Boot services, and gym administration. A related Python / SimPy simulation workspace explores equipment contention, advisory scheduling, and what changes when people accept or decline recommendations.
-
-**Research interest:** testing scheduling assumptions through reproducible experiments before drawing conclusions about a real gym.
+[App repository →](https://github.com/tAnboyy/urec-live-app)
 
 ### Incridea
+An event platform with authentication and payments, built with a six-person team.
 
-Collaborated in a six-person team on an event platform using React, Node.js, Firebase, and Razorpay. Worked across the frontend, backend APIs, authentication, and payment integration.
+*Public repository link unavailable.*
 
 </details>
 
