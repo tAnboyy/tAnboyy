@@ -21,13 +21,7 @@
 
 ## Hey, I'm Thanmay.
 
-I build software around questions I keep coming back to: **Can an AI tutor remember where a student struggled? Can a workout adapt when the next machine is taken? Can a complex document become an answer someone can actually use?**
-
-Those questions have taken me from **payment-service backend development at CloudSphere IT Labs** and **enterprise backend engineering at ACI Worldwide**, to **agentic learning research at UNC Charlotte**, to **RAG development at Arch MI**. Along the way, I've built campus-navigation tools, mobile apps, and systems for learning and fitness.
-
-I enjoy connecting the whole system: the interface someone touches, the API behind it, the data it depends on, and the AI workflow that helps them take the next step.
-
-> My favorite engineering problems live where AI reasoning meets application state, real constraints, and a useful user experience.
+I build **AI-powered applications, dependable backends, and thoughtful interfaces** for learning, fitness, and everyday decisions. I enjoy connecting the whole system—from the interface and API to the data and AI workflows behind it.
 
 <p align="center">
   <a href="#selected-builds">Selected builds</a> &nbsp; / &nbsp;
