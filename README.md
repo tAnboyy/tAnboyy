@@ -38,48 +38,25 @@ I enjoy connecting the whole system: the interface someone touches, the API behi
 ## Selected builds
 
 ### 01 / CourseLab
-**A shared home for AI-supported learning.**
+AI-supported learning in one place: Socratic conversations, reflections, and adaptive tutoring connected through a shared course workflow.
 
-CourseLab brings Socratic conversations, academic reflections, and adaptive tutoring into a common course-and-assignment workflow. My work connects the learning tools with the platform infrastructure needed to make them work together.
+[![Explore CourseLab](https://img.shields.io/badge/Explore_CourseLab-C7F36B?style=for-the-badge&logo=github&logoColor=0D1117)](https://github.com/tAnboyy/CourseLab)
 
-- **One entry point:** a FastAPI gateway coordinates authentication, course access, assignment configuration, and handoffs between learning services.
-- **Grounded conversations:** hybrid retrieval combines dense vector search with PostgreSQL full-text search to bring course evidence into the tutoring flow.
-- **Consistent learning context:** published assignments preserve immutable document and configuration snapshots, so later source edits do not silently change the activity.
-- **Persistent learning journeys:** saved attempts and stateful workflows let students resume their work; Canvas LTI integration connects the platform to course identity and context.
-
-`Python` `FastAPI` `React` `PostgreSQL / pgvector` `LangGraph` `Docker` `Canvas LTI`
-
-**[Explore CourseLab →](https://github.com/tAnboyy/CourseLab)**
+---
 
 ### 02 / Spotter
-**A workout plan should survive a busy gym.**
+An equipment-aware workout companion with session tracking and conversational coaching that helps adapt a workout when a machine is taken. Built with a teammate.
 
-Spotter is an equipment-aware workout companion built around a simple situation: you're ready for the next exercise, but the machine is taken. The project combines workout planning, set and rest tracking, and a conversational coaching interface.
+[![Explore Spotter](https://img.shields.io/badge/Explore_Spotter-80D6FF?style=for-the-badge&logo=github&logoColor=0D1117)](https://github.com/tAnboyy/spotter)
 
-- **State-aware coaching:** ElevenLabs integration uses structured tool calls to connect conversational intent to supported workout actions.
-- **A shared source of truth:** a FastAPI workout engine validates actions and synchronizes session updates through WebSockets.
-- **Equipment-aware flow:** Taken reports can defer an exercise or offer an approved alternative while keeping the workout state consistent.
-- **Across interfaces:** an Expo / React Native experience, a browser watch panel, and a SwiftUI Apple Watch prototype explore different ways to interact during a workout.
-
-*Built with a teammate. Web-first; live-provider and native acceptance checks are tracked separately in the repository.*
-
-`TypeScript` `React Native / Expo` `Python` `FastAPI` `SQLite` `WebSockets` `ElevenLabs` `SwiftUI prototype`
-
-**[Explore Spotter →](https://github.com/tAnboyy/spotter)**
+---
 
 ### 03 / Reflections
-**Helping students examine how they learn.**
+Guided AI conversations that help students reflect on how they learn, with persistent context and instructor-configured topics.
 
-Reflections uses guided AI conversations to support academic reflection. Professors configure the learning experience, while students work through topic-based conversations or connect milestone reflections to relevant historical experiences.
+[![Explore Reflections](https://img.shields.io/badge/Explore_Reflections-F0B88A?style=for-the-badge&logo=github&logoColor=0D1117)](https://github.com/tAnboyy/reflections-app)
 
-- **Configurable learning:** modules define topics, depth, and probing styles instead of relying on one generic chatbot prompt.
-- **Stateful conversations:** LangGraph workflows and PostgreSQL checkpointing preserve conversational context.
-- **Relevant past experiences:** sentence embeddings and similarity matching connect student reflections with historical challenges.
-- **Reviewable outputs:** reflection evaluations and an analytics interface help instructors inspect the resulting work.
-
-`Python` `FastAPI` `React / Vite` `LangGraph` `PostgreSQL` `Sentence Transformers`
-
-**[Explore Reflections →](https://github.com/tAnboyy/reflections-app)**
+---
 
 ## The rest of the workbench
 
