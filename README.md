@@ -34,21 +34,27 @@ I build **AI-powered applications, dependable backends, and thoughtful interface
 ### 01 / CourseLab
 AI-supported learning in one place: Socratic conversations, reflections, and adaptive tutoring connected through a shared course workflow.
 
-[![Explore CourseLab](https://img.shields.io/badge/Explore_CourseLab-C7F36B?style=for-the-badge&logo=github&logoColor=0D1117)](https://github.com/tAnboyy/CourseLab)
+<p align="center">
+  <a href="https://github.com/tAnboyy/CourseLab"><img src="https://img.shields.io/badge/Explore_CourseLab-B8BEC6?style=for-the-badge&amp;logo=github&amp;logoColor=0D1117" alt="Explore CourseLab" /></a>
+</p>
 
 ---
 
 ### 02 / Spotter
 An equipment-aware workout companion with session tracking and conversational coaching that helps adapt a workout when a machine is taken. Built with a teammate.
 
-[![Explore Spotter](https://img.shields.io/badge/Explore_Spotter-80D6FF?style=for-the-badge&logo=github&logoColor=0D1117)](https://github.com/tAnboyy/spotter)
+<p align="center">
+  <a href="https://github.com/tAnboyy/spotter"><img src="https://img.shields.io/badge/Explore_Spotter-B8BEC6?style=for-the-badge&amp;logo=github&amp;logoColor=0D1117" alt="Explore Spotter" /></a>
+</p>
 
 ---
 
 ### 03 / Reflections
 Guided AI conversations that help students reflect on how they learn, with persistent context and instructor-configured topics.
 
-[![Explore Reflections](https://img.shields.io/badge/Explore_Reflections-F0B88A?style=for-the-badge&logo=github&logoColor=0D1117)](https://github.com/tAnboyy/reflections-app)
+<p align="center">
+  <a href="https://github.com/tAnboyy/reflections-app"><img src="https://img.shields.io/badge/Explore_Reflections-B8BEC6?style=for-the-badge&amp;logo=github&amp;logoColor=0D1117" alt="Explore Reflections" /></a>
+</p>
 
 ---
 
