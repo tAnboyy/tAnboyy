@@ -78,7 +78,7 @@ An Android-first app for hourly activity logs, next-hour goals, and productivity
 
 [Repository →](https://github.com/tAnboyy/hour-tracker-app)
 
-### UREC Live & gym scheduling research
+### UREC Live
 Connected-fitness apps and scheduling experiments exploring equipment availability and workout flow.
 
 [Repository →](https://github.com/tAnboyy/urec-live-app)
